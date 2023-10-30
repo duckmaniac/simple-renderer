@@ -32,7 +32,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#compiling-from-source">Compiling from source</a></li>
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
@@ -80,7 +80,7 @@ To build this demo on your system, ensure:
 * Fly Engine 0.1.0 library is set up and ready.
 * In order to run this code, you will need a Windows operating system.
 
-### Installation
+### Compiling from source
 
 1. Clone the repo
    ```sh
